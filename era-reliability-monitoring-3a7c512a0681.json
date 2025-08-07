@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "era-reliability-monitoring",
+  "private_key_id": "3a7c512a068132179d9d70729acad6a1fb9c018d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCUQIJlHaEuT9e+\nCOnWzHv4yhZoiTvhihjB0CYRR1lz8IaiQnN/yh+vklB9So9BTLvgrwiaG1tosdmn\nVQOlGH7NsAkDyXJXwYAwfzzwvml6Qp1DGqohy8DopJ6svlLRwVZvNzmuks3xd+ff\nBF5beYGC7HCPOt4I92Gs3jkkqU8S/o9TsaxgWMi/GnNf1Kfn8YLbY2liP+OuqRkE\nbz4DcbIy/Rryxx5Hjb1TubNAgWpaeH2DrL8MV+Ujs/jD0SYb8CdynoQH7R5Py6lr\nZrPdfpCV+Ft90lzN6RmKOQAK9zrQccn8iA7VoVNpcYPRSs2p8pH/LKwBHMtQsG+E\ngUoEcmBVAgMBAAECggEACa2udZh6GdJnlMXzMi02WLckwF1ZNe+0jw6eNZmRWvLU\nb0pkTO7uo6ErNQrFkG9IgrIanyjzDkIyIez4aHJRcO8xn3gqyVTeIAxmd5cOvscT\nijp26e7p4KZCn6drM7tp/6e80ctOu5lm31XjLRihHmF+NbOTpEU2MLlvRJfzDBvN\n38kAo2GvfqX/jqvyCBe1l3KhlXHBlrF2uC+7kp4IMODV1ucHjhRxhR7hKkUgGZcM\nCEJDq8rgJa2Vv+DTazp7wTKNeY+VXw7LNoKEE7q8cTHAsqyspSaYhocSxprmcczT\n2wQ9xyNNfqxl/pp/RZS2xSNyDyfeaNEvH/Fa26+ETwKBgQDI0xj/Fmr59eNFHnN3\nGvJIGwr00b4G1nhMuDiXw61WDP1PrsTZTqC+4LhM206VIbJ7oqylcc7R0NRLJ8W7\nTkJ5wKW7q0fWx5go+1Gq7fvqQvuIM2GJxRp5EL9vPlYHZRWm6qfSow5ZvZ8hQBRD\nVXZdzkK2Ktu2Je7zEZtb560OxwKBgQC8+74El/aNCc6MbIy81xCKWeVzz+GQtWyE\nhIzTKdyLXOU28+Yeu1tKw4Sopw74XIP5H/U+jDt5bWVxB58o3PEkdHlTaNGAN2Kq\nJ2ZnbcV5XPA08b6PQLzQ0CN55vI2lB7bjCvCDbYmVrbZ76G16hngIg/pxjkXR64S\nzeCG7RcsAwKBgDf3XIf6X2W5uNSSX+tZfxvJLYx8x1BwhKYc0Oi6h5vrksyaEBHf\nb7zCM5p3o7a75Vm/RA33YYPnhsJLGzfP34a+wXFDkomwph8FqwTPvdzTPfX/G7eh\nTndey3rdDGyTJy2VR5/UATPRPH+vs/Xv40TRLpZF62UfvS/QQFOkhP4RAoGBAIu2\nxXVZ73G3tVcFjUqy6MyPx13GaylzpyWVZRNcGGuDowXsbM19j/GG+JVC5INiykKs\niL/UJsgPw3Y7v0QTi8d6wJOUo4XZ7HyFImUGt36Q4hkSO+JmZvEtX3zo61rESMfh\nKhyNzIMtioM2cOQvjS+xnvgijuSSHrRSNlMqBv6HAoGBAIUnqAflwEiIEpp93i3j\nod3hYzs1DOr2zljKLtEA9+XsjuySDPTHrYgQ42U6/NOeeMfPdvsDunsbxHVNwP+w\nIjN8W8rOEidjmf+5H7tOm6NTqqX+4MlvC97lWJ0OG8M89haW1fVtrOUecEyC8Hd9\nKiRufQgYxccBEJQFPkUTwlOn\n-----END PRIVATE KEY-----\n",
+  "client_email": "david-maganda@era-reliability-monitoring.iam.gserviceaccount.com",
+  "client_id": "113342248492355810356",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/david-maganda%40era-reliability-monitoring.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
